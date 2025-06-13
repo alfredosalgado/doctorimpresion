@@ -4,9 +4,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: 'Arial Narrow', Arial, sans-serif
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
@@ -14,7 +12,6 @@
 
 
 .text-home {
-  font-family: 'Arial Narrow', Arial, sans-serif
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
@@ -1128,6 +1125,16 @@ a {
 
 
 
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
 
 @media (min-width: 768px) {
   
